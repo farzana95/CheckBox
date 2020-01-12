@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyCheckBox</string>
+    <string name="heading1">Do you want to travel?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="button1">Submit</string>
+    <string name="result1">Result</string>
+    <string name="heading2">Where do you want to travel?</string>
+    <string name="dhaka">Dhaka</string>
+    <string name="comilla">Comilla</string>
+    <string name="khulna">Khulna</string>
+    <string name="button2">Submit</string>
+    <string name="result2">Result</string>
+</resources>
